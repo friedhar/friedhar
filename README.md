@@ -17,7 +17,7 @@ A3 = [ [9,5,3], [4,1,8], [4,4,5]]
 Reference
 ```
 inv(A)A=I where I is the identity matrix (diagional ones)
-BAinv(A) = B
+inv(A)AB=B
 ```
 
 
