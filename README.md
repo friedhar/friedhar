@@ -1,4 +1,4 @@
-# NOTE: SINCE the 20th of september i am using a different account, most of my code / work is elsewhere.
+### NOTE: SINCE the 20th of september i am using a different account, most of my code / work is elsewhere.
 
 Hey there! for the last four years, 
 I have used a self-hosted git server (and still am), 
