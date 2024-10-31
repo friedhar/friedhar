@@ -4,5 +4,6 @@
 P(commit on github) = P(public project) * P(major change) * P(-e^t) * P(right mood)
 P(self hosted) = 1 - P(commit on github)
 ```
-[Personal Site](https://ronf.bearblog.dev/) \\
+[Personal Site](https://ronf.bearblog.dev/)
+
 14 y/o
