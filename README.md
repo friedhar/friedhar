@@ -1,1 +1,1 @@
-mostly for /Public/ projects, hey!
+mostly for *public* projects, hey!
